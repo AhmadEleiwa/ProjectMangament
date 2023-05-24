@@ -38,4 +38,4 @@ Once the project is is underway, the project manager helps manage the tasks for 
 
 ### Managing Budgets
 
-Budging and controlling the costs is a common responsibilities that the project managers have to to understand to keep the project on track  
+Budging and controlling the costs is a common responsibilities that the project managers have to to understand to keep the project on track.
