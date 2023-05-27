@@ -4,9 +4,17 @@ This Repo discus about the project management and the project management  method
 
 [PDF](assets/README.pdf)
 
+|     |                           |
+| --- | ------------------------- |
+| Ch1 | [link](assets/README.pdf) |
+|     |                           |
+|     |                           |
+|     |                           |
+|     |                           |
+
 ## An Overview of Project Management
 
-### 1.1 Project
+### Project
 
 - A unique endeavor, and usually includes a set of unique deliverable
 
@@ -14,11 +22,11 @@ This Repo discus about the project management and the project management  method
 
 In other words, the project is series of tasks that need be completed to reach to desired outcome.
 
-### 1.2 Project Management
+### Project Management
 
 Project management is the application of knowledge, skills, tools and techniques to meet the project requirements and achieve the desired outcome.  
 
-### 1.3 Project Manager
+### Project Manager
 
 what project manager do ? 
 
@@ -32,19 +40,19 @@ what project manager do ?
 
 Also , project management also need to make sure that the project  outcome is bringing value to the company. Project manager's responsibilities  depending on the project, the industry and the company they're working in. Their task will be different in each scenario.
 
-### 1.3.1 Planning
+### Planning
 
 Kick of meetings or send survey. Also work on creating project planes.
 
-### 1.3.2 Managing Tasks
+### Managing Tasks
 
 Once the project is is underway, the project manager helps manage the tasks for the team members and communicate key milestone to larger team or customers. That's help the team members and customers updated on how the project progressing.
 
-### 1.3.4 Managing Budgets
+### Managing Budgets
 
 Budging and controlling the costs is a common responsibilities that the project managers have to to understand to keep the project on track.
 
-### 1.3.5 Project management as career
+### Project management as career
 
 By the year 2027, the employers will need 87.7 million people filling project management aligned roles. 
 
