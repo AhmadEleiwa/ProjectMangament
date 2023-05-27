@@ -39,3 +39,19 @@ Once the project is is underway, the project manager helps manage the tasks for 
 ### Managing Budgets
 
 Budging and controlling the costs is a common responsibilities that the project managers have to to understand to keep the project on track.
+
+### Project management as career
+
+By the year 2027, the employers will need 87.7 million people filling project management aligned roles. 
+
+Working on in industry  as project manager allow you to work in any different industry easily 
+
+#### How to reach to project manager role ?
+
+In project management, there's levels u have passed before going to project manager like  project assistant. So how to gain experience ? 
+
+- internship:  The internship force you to know how to cooperate with team members, how the project manage in a companies and working in tickets and tasks allow you to have a small knowledge how the process going.
+
+- Contract work:  Not full-time job employee. You will work project-by-project . This concept describe the employee that work in different companies till the period of project end. Working on contract for  a company rather than being an official employee of a company allow you to gain experience how each company handle its one projects And discover the different type of company and different projects.
+
+<img src='assets/project mangment role flow.png' >
