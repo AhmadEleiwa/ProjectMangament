@@ -50,10 +50,10 @@ By the year 2027, the employers will need 87.7 million people filling project ma
 
 #### How to reach to project manager role ?
 
-In project management, there's levels u have passed before going to project manager like  project assistant. So how to gain experience ? 
+In project management, there's levels you have to pass before going to project manager role like project assistant. However,  how to gain experience in this field ? 
 
 - internship:  The internship force you to know how to cooperate with team members, how the project manage in a companies and working in tickets and tasks allow you to have a small knowledge how the process going.
 
-- Contract work:  Not full-time job employee. You will work project-by-project . This concept describe the employee that work in different companies till the period of project end. Working on contract for  a company rather than being an official employee of a company allow you to gain experience how each company handle its one projects And discover the different type of company and different projects.
+- Contract work:  Not full-time job employee. You will work project-by-project . This concept describe the employee that work in different companies till the period of project end. Working on contract for  a company rather than being an official employee of a company allow you to gain experience how each company handle its own projects And discover the different type of companies and different projects.
 
 <img src='assets/project mangment role flow.png' >
