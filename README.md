@@ -2,7 +2,7 @@
 
 This Repo discus about the project management and the project management  methodologies. This Doc are taken from Google courses in Coursera. For more resources check this [link](https://www.coursera.org/learn/foundations-of-project-management-arabic)
 
-[PDF](asset/README.pdf)
+[PDF](assets/README.pdf)
 
 ## An Overview of Project Management
 
