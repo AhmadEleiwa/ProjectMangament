@@ -4,13 +4,13 @@ This Repo discus about the project management and the project management  method
 
 [PDF](assets/README.pdf)
 
-|     |                           |
-| --- | ------------------------- |
-| Ch1 | [link](assets/README.pdf) |
-|     |                           |
-|     |                           |
-|     |                           |
-|     |                           |
+|     |                  |
+| --- | ---------------- |
+| Ch1 | [link](#Project) |
+|     |                  |
+|     |                  |
+|     |                  |
+|     |                  |
 
 ## An Overview of Project Management
 
