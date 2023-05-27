@@ -46,9 +46,7 @@ Budging and controlling the costs is a common responsibilities that the project 
 
 ### Project management as career
 
-By the year 2027, the employers will need 87.7 million people filling project management aligned roles. 
-
-Working on in industry  as project manager allow you to work in any different industry easily 
+By the year 2027, the employers will need 87.7 million people filling project management aligned roles. Working on in industry  as project manager allow you to work in any different industry easily 
 
 #### How to reach to project manager role ?
 
