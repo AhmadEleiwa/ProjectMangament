@@ -4,10 +4,6 @@ This Repo discus about the project management and the project management  method
 
 [PDF](assets/README.pdf)
 
-## Table of contents
-
-1. [An Overview of Project Management](#An-Overview-of-Project-Management)
-
 ## An Overview of Project Management
 
 ### Project
