@@ -30,11 +30,11 @@ what project manager do ?
 
 - Controlling Cost and other factors
 
-Also , project management also need to make sure that the project  outcome is bringing value to the company. Project manager's responsibilities  depending on the project, the industry and the company they're working in. Their task will be different in each scenario.
+Also , project manager need to make sure that the project outcome is bringing value to the company. Project manager's responsibilities  depending on the project, the industry and the company they're working in. Their task will be different in each scenario.
 
 ### Planning
 
-Kick of meetings or send survey. Also work on creating project planes.
+Kick off meetings or send survey. Also work on creating project planes.
 
 ### Managing Tasks
 
@@ -52,8 +52,14 @@ By the year 2027, the employers will need 87.7 million people filling project ma
 
 In project management, there's levels you have to pass before going to project manager role like project assistant. However,  how to gain experience in this field ? 
 
-- internship:  The internship force you to know how to cooperate with team members, how the project manage in a companies and working in tickets and tasks allow you to have a small knowledge how the process going.
+- internship:  The internship force you to know how to cooperate with team members, how the project is managing in  companies and working in tickets/tasks allow you to have a small knowledge how the process going.
 
 - Contract work:  Not full-time job employee. You will work project-by-project . This concept describe the employee that work in different companies till the period of project end. Working on contract for  a company rather than being an official employee of a company allow you to gain experience how each company handle its own projects And discover the different type of companies and different projects.
 
 <img src='assets/project mangment role flow.png' >
+
+**Project Manager Requirments**
+<img src='assets/ProjectManager.png' >
+
+**Operations Accociate Requirments**
+<img src='assets/OperationsAccociate.png' >
