@@ -19,7 +19,7 @@ In other words, the project is series of tasks that need be completed to reach t
 Project management is the application of knowledge, skills, tools and techniques to meet the project requirements and achieve the desired outcome.  
 
 ### Project Manager
-Shaperd projects from start to finish and serve as guides for their team, using their impeccable origanizational and interperonal skills ever step of the way. Project managers add value to their teams and organizations in key ways that include prioritization, delegation, and effective communication
+Shaperd projects from start to finish and serve as guides for their team, using their impeccable origanizational and interperonal skills ever step of the way.
 
 what project manager do ? 
 
@@ -66,3 +66,8 @@ In project management, there's levels you have to pass before going to project m
 **Operations Accociate Requirments**
 
 <img src='assets/OperationsAccociate.png' >
+
+Project managers add value to their teams and organizations in key ways that include:
+* prioritization
+* delegation
+* effective communication
