@@ -20,6 +20,7 @@ Project management is the application of knowledge, skills, tools and techniques
 
 ### Project Manager
 Shaperd projects from start to finish and serve as guides for their team, using their impeccable origanizational and interperonal skills ever step of the way.
+
 what project manager do ? 
 
 - Planning and organizing 
