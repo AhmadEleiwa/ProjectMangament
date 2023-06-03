@@ -19,7 +19,7 @@ In other words, the project is series of tasks that need be completed to reach t
 Project management is the application of knowledge, skills, tools and techniques to meet the project requirements and achieve the desired outcome.  
 
 ### Project Manager
-
+Shaperd projects from start to finish and serve as guides for their team, using their impeccable origanizational and interperonal skills ever stop of the way.
 what project manager do ? 
 
 - Planning and organizing 
