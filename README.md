@@ -67,10 +67,10 @@ In project management, there's levels you have to pass before going to project m
 
 <img src='assets/OperationsAccociate.png' >
 
-Project managers add value to their teams and organizations in key ways that include:
+## Project managers add value to their teams and organizations in key ways that include:
 * prioritization
 * delegation
 * effective communication
 
 ### Prioritization
-Project managers add value of their teams and origanizations through effective prioritization of tasks required to complete a project. There're tasks with different levels of priority.
+Project managers add value of their teams and origanizations through effective prioritization of tasks required to complete a project. In a project , there're tasks with different levels of priority.
