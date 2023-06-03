@@ -61,7 +61,7 @@ In project management, there's levels you have to pass before going to project m
 
 **Project Manager Requirements:**
 
-<img src='assets/ProjectManager.png' >
+<img  width='100%' src='assets/ProjectManager.png' >
 
 **Operations Accociate Requirements:**
 
