@@ -59,11 +59,11 @@ In project management, there's levels you have to pass before going to project m
 
 <img src='assets/project mangment role flow.png' >
 
-**Project Manager Requirements:**
+***Project Manager Requirements:***
 
 <img  width='100%' src='assets/ProjectManager.png' >
 
-**Operations Accociate Requirements:**
+***Operations Accociate Requirements:***
 
 <img width='100%' src='assets/OperationsAccociate.png' >
 
