@@ -67,7 +67,8 @@ In project management, there's levels you have to pass before going to project m
 
 <img src='assets/OperationsAccociate.png' >
 
-### Project managers add value to their teams and organizations in key ways that include:
+### Value of project manager
+Project managers add value to their teams and organizations in key ways that include:
 * prioritization
 * delegation
 * effective communication
