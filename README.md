@@ -71,3 +71,6 @@ Project managers add value to their teams and organizations in key ways that inc
 * prioritization
 * delegation
 * effective communication
+
+### Prioritization
+Project managers add value of their teams and origanizations through effective prioritization of tasks required to complete a project. There're tasks with different levels of priority.
