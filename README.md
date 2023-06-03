@@ -77,7 +77,7 @@ Project managers add value to their teams and organizations in key ways that inc
 Project managers add value of their teams and origanizations through effective prioritization of tasks required to complete a project. In a project , there're tasks with different levels of priority.
 
 ### Delegation
-Project managers use  delegation  to add value to  their teams and orginization by matching tasks ti individuals who can best complete the work.
+Project managers use  delegation  to add value to  their teams and orginization by matching tasks to individuals who can best complete the work.
 
 ### Effective communication
 Project managers deliver value through effective communication, both with their team and with key stakeholders. which ensures that the project stays on track. In addition to keeping up with teammates, project managers keep in regular contact with people outside of the team.
