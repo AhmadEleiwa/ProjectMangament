@@ -81,3 +81,14 @@ Project managers use  delegation  to add value to  their teams and orginization 
 
 ### Effective communication
 Project managers deliver value through effective communication, both with their team and with key stakeholders. which ensures that the project stays on track. In addition to keeping up with teammates, project managers keep in regular contact with people outside of the team.
+
+## How do project managers influence organizations?
+You've learned that project managers can prioritize, delegate, and communicate effectively to deliver value to their projects. This read will focus on the key ways in which project managers can add value to impactful projects and organizations, which include:
+* Focus on the customer
+* Great team building
+* Enhance relationships and communication
+* Projects management
+* Brake the barriers
+
+### Focus on the customer
+There is no exception to this in the field of project management. To successfully deliver the project, it must meet the client's criteria. To meet a client's standards, you need to make sure you clearly understand their expectations. The customer is the focus of a successful project. Project managers can add a lot of value to a project by building relationships with clients and taking the time to make sure the client is heard and satisfied with the outcome.
