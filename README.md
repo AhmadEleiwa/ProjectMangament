@@ -92,3 +92,8 @@ You've learned that project managers can prioritize, delegate, and communicate e
 
 ### Focus on the customer
 There is no exception to this in the field of project management. To successfully deliver the project, it must meet the client's criteria. To meet a client's standards, you need to make sure you clearly understand their expectations. The customer is the focus of a successful project. Project managers can add a lot of value to a project by building relationships with clients and taking the time to make sure the client is heard and satisfied with the outcome.
+
+### Great team building
+The team is the main supporter of the project. A good project manager understands each person's strengths and weaknesses. They put the right team together and help them succeed.
+
+When building a great team, think about what skills are needed. Also, consider what resources you have. Knowing what the customer wants helps choose the right skills. For example, if the project is about medicine, you need people with medical knowledge. Even if the team works hard, without the right skills, they won't finish the project. As a project manager, bring in people with the right skills and make sure everyone feels valued and respected. Let them ask questions and help them quickly.
