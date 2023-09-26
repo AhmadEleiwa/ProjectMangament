@@ -99,7 +99,7 @@ The team is the main supporter of the project. A good project manager understand
 When building a great team, think about what skills are needed. Also, consider what resources you have. Knowing what the customer wants helps choose the right skills. For example, if the project is about medicine, you need people with medical knowledge. Even if the team works hard, without the right skills, they won't finish the project. As a project manager, bring in people with the right skills and make sure everyone feels valued and respected. Let them ask questions and help them quickly.
 
 
-### Enhance relationships and communicatio
+### Enhance relationships and communication
 As a project manager, there are two important ways to make a project better: keeping customers happy and having a great team. Both of these things rely on good relationships and talking well with others. The best project managers are the ones who make friends, talk nicely, and treat everyone well.
 
 Project managers can make a project go well by getting along with their team and the people involved. It's important to talk to your team every day, ask how they're doing, and see if they need any help. This makes them feel important and listened to.
