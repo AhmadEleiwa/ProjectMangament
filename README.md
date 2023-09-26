@@ -110,3 +110,8 @@ When you put together teams, each person gets specific jobs for the project. Aft
 For instance, if a designer is making materials to attract teachers but doesn't know why it's important for the client, they might not get the whole plan. If you explain the big picture to them, they can do their job in a way that helps the project achieve its main goal.
 
 Running a project can be really busy, but if you make friends and talk a lot with your team, you'll have a better chance of making the project work well. This also makes your clients and team members happy!
+
+### Brake the barriers
+Sometimes, people do things a certain way just because they always have. A project manager makes a project better when they help their team come up with new ideas and share them. As a project manager, you should show how to be creative and work together, and encourage your team to do the same.
+
+How can you help your team in a project? You can support them when they try new ways to solve problems, and you can ask for more help for your team. If your team is having trouble getting information from another group, you can talk to them yourself to make sure things stay on track and on time.
